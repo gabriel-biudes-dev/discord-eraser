@@ -18,7 +18,7 @@ function gotMessage(msg){
             console.log('Membro expulso: ' + member.user.username);
             member.kick();
           }else{
-            console.log('Não foi possível expulsar: ' + member.user.username);
+            console.log('NÃ£o foi possÃ­vel expulsar: ' + member.user.username);
           }
         }
       });
@@ -33,4 +33,4 @@ function gotMessage(msg){
   }
 }
 
-client.login('TOKEN HERE');
+client.login('OTY0NzMwNTAwNDYxNzY4NzU0.Ylo5Sw.8gh9oTEVd4iHwx-Jh5FEY82RVzc');
