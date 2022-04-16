@@ -33,4 +33,4 @@ function gotMessage(msg){
   }
 }
 
-client.login('OTY0NzMwNTAwNDYxNzY4NzU0.Ylo5Sw.8gh9oTEVd4iHwx-Jh5FEY82RVzc');
+client.login('TOKEN AQUI');
